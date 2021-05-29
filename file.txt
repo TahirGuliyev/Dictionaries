@@ -1,0 +1,3 @@
+[Salam, Hello]
+[Kitab, Book]
+[Dictionary, Luget]
